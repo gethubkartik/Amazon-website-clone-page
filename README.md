@@ -1,1 +1,16 @@
-Created an Amazon web clone using HTML, CSS, and JavaScript, featuring key parts like the navigation bar, search bar, and product display sections. The project is fully responsive and includes interactive elements for a better user experience. The design closely matches the original Amazon site, with various product categories and a detailed footer. This project demonstrates my front-end development skills and ability to build complex web layouts.
+---
+
+## 🌐 Amazon Web Clone
+
+I created an Amazon web clone using **HTML** and **CSS**. This project features a fully responsive design, including the navigation bar, search bar, and product display sections, closely mirroring the original Amazon site. 🛒
+
+🔹 Key Features:
+- Responsive layout
+- Product categories
+- Detailed footer
+
+This project highlights my front-end development skills and my ability to build complex web layouts without using JavaScript.
+
+---
+
+ 
