@@ -4,7 +4,6 @@
 
 I created an Amazon web clone using **HTML** and **CSS**. This project features a fully responsive design, including the navigation bar, search bar, and product display sections, closely mirroring the original Amazon site. 🛒
 
-  Key Features:
 - Responsive layout
 - Product categories
 - Detailed footer
